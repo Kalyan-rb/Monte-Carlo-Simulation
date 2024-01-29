@@ -4,6 +4,11 @@
 
 ### If we throw a dart randomly inside the Square of sides of length 2, what is the probability that the dart is inside the Circle of radius 1?
 
+![Alt text](C:\Users\PavanB\Desktop\img1.jpg)
+
+
+
+
 #### Answer:
 
 ##### The Probaility of throwing a dart inside the circle is just proportional to the Area of the Circle to the Area of the Rectangle
